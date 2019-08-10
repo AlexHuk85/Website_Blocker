@@ -1,2 +1,8 @@
 Mac and Linux: /etc/hosts
 Window: C:\Windows\System32\drivers\etc
+
+Website i want to block:
+
+https://www.youtube.com
+https://www.facebook.com
+https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox
